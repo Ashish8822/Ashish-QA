@@ -1,1 +1,5 @@
-SOFTWARE DEVLOPMENT LIFE CYCLE 
+<code>
+x = 5;
+y = 6;
+z = x + y;
+</code>
